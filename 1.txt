@@ -1,3 +1,7 @@
 first row
 second row
+<<<<<<< HEAD
 forth row
+=======
+third row
+>>>>>>> c344aa5ce7524bf5c611aba2953e2d9f765bbdef
